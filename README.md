@@ -1,6 +1,7 @@
-Hi, I'm Hasan! 👋
+
 # 💫 About Me:
-🎓 Studying ACCP AI at Aptech.<br><br>🌱 Currently learning HTML, CSS, JavaScript, and jQuery.<br><br>🤖 Interested in Artificial Intelligence and modern technology.<br><br>🔨 Building small projects to strengthen my programming skills.<br><br>🎯 Focused on learning, experimenting, and becoming a better developer.
+I'm an ACCP AI student at Aptech with a growing interest in programming, web development, and artificial intelligence. Currently learning HTML, CSS, JavaScript, and jQuery, I enjoy exploring modern technologies, building small projects, and strengthening my coding skills through hands-on experience. I'm always curious to learn new things, experiment with ideas, and grow as a developer. 🚀
+
 
 
 ## 🌐 Socials:
