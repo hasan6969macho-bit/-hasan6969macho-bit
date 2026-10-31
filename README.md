@@ -1,6 +1,5 @@
-
 # 💫 About Me:
-I'm an ACCP AI student at Aptech with a growing interest in programming, web development, and artificial intelligence. Currently learning HTML, CSS, JavaScript, and jQuery, I enjoy exploring modern technologies, building small projects, and strengthening my coding skills through hands-on experience. I'm always curious to learn new things, experiment with ideas, and grow as a developer. 🚀
+Hi, I'm **Syed Muhammad Hasan**, an ACCP AI student at Aptech with a growing interest in programming, web development, and artificial intelligence. I'm currently learning HTML, CSS, JavaScript, and jQuery, while exploring modern technologies and building projects to improve my skills. I enjoy learning new things, experimenting with ideas, and continuously growing as a developer. 🚀
 
 
 
